@@ -5,6 +5,8 @@
 ![KQL](https://img.shields.io/badge/KQL-Advanced_Hunting-green)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-orange)
 
+![Discord Webhook Exfiltration](discord-webhook-exfiltration.png)
+
 ## Overview
 
 Discord webhooks provide a mechanism for sending data into Discord channels using HTTPS requests.
